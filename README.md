@@ -1,2 +1,6 @@
-# framework
-This repository shows the code to implement the framework (of pretty small ) used to fetch some data, to render some content on screen and handle user events
+#How to get started
+ after downloading the package type npm install
+to install all dependenciese.
+and then type 
+#parcel index.html
+to run the program
